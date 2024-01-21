@@ -4,6 +4,8 @@
 
 게임 영상 : [https://www.youtube.com/watch?v=vEbmR1M-XIA](https://www.youtube.com/watch?v=vEbmR1M-XIA)
 
+게임 파일 : Release에서 설치하실 수 있습니다.
+
 ## 주제
 Real-time Voronoi Fracturing
 
